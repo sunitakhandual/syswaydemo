@@ -1,0 +1,41 @@
+.p1{position: absolute;left:500px;}
+select{border-style: none;}
+.img1{
+    position: absolute;top:10px;}
+.d1{height:500px;width:100%;background-image: url("https://tomboomershine.org/wp-content/uploads/2019/05/man-laptop-smiling-typing-sitting-at-desk.jpg");
+    position: absolute;top:70px;}
+.p2{position: absolute;left:100px;top:120px;color:white;font-size: 20px;font-weight: bold;}
+.p3{position: absolute;left:120px;top:160px;color:yellow;font-size: 30px;font-weight: bold;}
+.p4{position: absolute;left:120px;top:250px;color:white;font-size: 17px;font-weight: bold;}
+.btn1{position: absolute;left:120px;top:350px;height:50px;width:200px;border-radius: 30px;background-color: blue;color:white;border-style: none;font-size: 15px;}
+.d5{height:400px;width:100%;background-color: white;}
+.p5{position: absolute;left:390px;top:550px;color:black;font-size: 30px;font-family: "Berlin Sans FB"}
+.d6{height:200px;width:200px;background-color: white;position:absolute;left:190px;top:670px ;border:1px solid black;
+background-color: lightgray;}
+.p6{position: absolute;left:50px;top:100px;color:#01579b;font-size: 30px;}
+.v1{position: absolute;left:50px;top:20px;font-size: 30px;}
+.d7{height:200px;width:200px;background-color: white;position:absolute;left:470px;top:670px ;border:1px solid black;background-color: lightgray;}
+.v2{position: absolute;left:50px;top:20px;}
+.p7{position: absolute;left:50px;top:100px;color:#01579b;font-size: 30px;}
+.d8{height:200px;width:200px;background-color: white;position:absolute;left:750px;top:670px ;border:1px solid black;background-color: lightgray;}
+.v3{position: absolute;left:50px;top:20px;}
+.p8{position: absolute;left:50px;top:100px;color:#01579b;font-size: 30px;}
+.btn2{position: absolute;left:70px;top:170px;background-color: maroon;color:white;border-style: none;}
+.btn3{position: absolute;left:70px;top:170px;background-color: maroon;color:white;border-style: none;}
+.btn4{position: absolute;left:70px;top:170px;background-color: maroon;color:white;border-style: none;}
+.pr1{position: absolute;left:50px;top:900px;color:black;font-size: 40px;font-weight: bold;}
+.sp{color:blue;}
+.pr2{position: absolute;left:50px;top:1030px;color:grey;font-size: 17px;}
+.pr3{position: absolute;left:600px;top:1000px;color:grey;font-size: 20px;font-weight: bold;}
+
+.hr1{position: absolute;left:650px;top:1020px;color:grey;width:300px;background-color: black;}
+.sp3{position: absolute;left:650px;top:1050px;color:black;font-size: 30px;}
+.pr4{position: absolute;left:600px;top:1100px;color:grey;font-size: 20px;font-weight: bold;}
+.hr2{position: absolute;left:650px;top:1130px;color:grey;width:300px;background-color: black;}
+.sp4{position: absolute;left:650px;top:1150px;color:black;font-size: 30px;}
+
+
+
+
+
+

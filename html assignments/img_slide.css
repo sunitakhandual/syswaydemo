@@ -1,0 +1,7 @@
+img{height:400px;width:400px;margin-left: 430px;margin-top: 100px;}
+#btn1{height:30px;width: 60px;background-color: white;
+position: absolute;top:250px;left:280px;color:black;border-style: none;}
+#btn2{height:30px;width: 60px;background-color: white;
+position: absolute;top:250px;left:920px;color:black;border-style: none;}
+#p{display: none;}
+body{background-color:black;}

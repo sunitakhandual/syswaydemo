@@ -1,0 +1,366 @@
+nav li{list-style: none;
+display: inline;}
+nav{background-color: black;
+height:45px;width: 101%;}
+nav li a{text-decoration: none;
+color:white;text-align: center;}
+ li :hover{color:red;}
+.d1{height:175px;width:100%;background-color: black;
+position: absolute;top:50px;opacity: .8;}
+#img1{position: absolute;top:50px;left:30px;}
+#p1{position: absolute;top:0px;left:150px;font-size: 50px;font-family:"Apple Chancery";color:white;}
+.s1{color:yellow;}
+#sel{position: absolute;top:128px;left:20px;height:35px;width:300px;background-color: white;
+boredr:1px solid black;font-size: 17px;}
+#hr1{position: absolute;top:350px;background-color: black;;width: 100%;}
+.d2{height:43px;width:1100px;background-color: lightgray;
+position: absolute;top:250px;left:100px;border:1px solid grey;border-radius: 5px;}
+#p2{position: absolute;left:400px;font-size: 16px;}
+#p2:hover{font-size: 17px;cursor: pointer;}
+#p3{position: absolute;left:470px;font-size: 16px;top:300px;font-weight: bold;}
+.d3{height:277px;width:480px;position: absolute;top:390px;left:2px;border:1px solid grey;}
+h1{position:absolute;top:0px;left:220px;}
+.pa1{position:absolute;top:35px;left:230px;font-size: 17px;}
+#sp1{color:goldenrod;}
+#image1{position: absolute;top:385px;left:552px;}
+.d4{height:35px;width:1000px;background-color: deeppink;
+position: absolute;top:679px;left:1px;border:1px solid grey;}
+.d5{height:1000px;width:998px;background-color: white;
+position: absolute;top:710px;left:1px;border:2px solid deeppink;}
+.d6{height:30px;width:150px;background-color: #01579b;
+position: absolute;top:730px;left:9px;}
+#par1{color:white; margin-top: 2px;padding:0px;text-align: center;}
+#par2{
+position: absolute;top:709px;left:167px;font-size: 20px;font-weight: bold;}
+.div1{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:770px;left:9px;border-radius: 5px;}
+.div2{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:770px;left:133px;border-radius: 5px;}
+.div3{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:770px;left:257px;border-radius: 5px;}
+.div4{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:770px;left:381px;border-radius: 5px;}
+.div5{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:770px;left:505px;border-radius: 5px;}
+.div6{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:770px;left:629px;border-radius: 5px;}
+.div7{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:770px;left:753px;border-radius: 5px;}
+.div8{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:770px;left:877px;border-radius: 5px;}
+.d7{height:30px;width:150px;background-color: #01579b;
+position: absolute;top:820px;left:9px;}
+#par3{color:white; margin-top: 2px;padding:0px;text-align: center;}
+#par4{
+position: absolute;top:802px;left:167px;font-size: 20px;font-weight: bold;}
+
+.div9{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:860px;left:9px;border-radius: 5px;}
+.div10{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:860px;left:133px;border-radius: 5px;}
+.div11{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:860px;left:257px;border-radius: 5px;}
+.div12{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:860px;left:381px;border-radius: 5px;}
+.div13{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:860px;left:505px;border-radius: 5px;}
+.div14{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:860px;left:629px;border-radius: 5px;}
+.div15{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:860px;left:753px;border-radius: 5px;}
+.div16{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:860px;left:877px;border-radius: 5px;}
+.div17{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:910px;left:9px;border-radius: 5px;}
+.div18{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:910px;left:133px;border-radius: 5px;}
+.div19{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:910px;left:9px;border-radius: 5px;}
+
+.d8{height:30px;width:150px;background-color: #01579b;
+position: absolute;top:960px;left:9px;}
+#par5{color:white; margin-top: 2px;padding:0px;text-align: center;}
+#par6{
+position: absolute;top:941px;left:167px;font-size: 20px;font-weight: bold;}
+
+
+.div20{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1000px;left:9px;border-radius: 5px;}
+.div21{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1000px;left:133px;border-radius: 5px;}
+.div22{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1000px;left:257px;border-radius: 5px;}
+.div23{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1000px;left:381px;border-radius: 5px;}
+.div24{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1000px;left:505px;border-radius: 5px;}
+.div25{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1000px;left:629px;border-radius: 5px;}
+.div26{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1000px;left:753px;border-radius: 5px;}
+.div27{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1000px;left:877px;border-radius: 5px;}
+.div28{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1000px;left:9px;border-radius: 5px;}
+.div29{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1050px;left:133px;border-radius: 5px;}
+.div30{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1050px;left:9px;border-radius: 5px;}
+
+.d9{height:30px;width:150px;background-color: #01579b;
+position: absolute;top:1100px;left:9px;}
+#par7{color:white; margin-top: 2px;padding:0px;text-align: center;}
+#par8{
+position: absolute;top:1080px;left:167px;font-size: 20px;font-weight: bold;}
+
+
+.div31{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1140px;left:9px;border-radius: 5px;}
+.div32{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1140px;left:133px;border-radius: 5px;}
+.div33{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1140px;left:257px;border-radius: 5px;}
+.div34{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1140px;left:381px;border-radius: 5px;}
+.div35{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1140px;left:505px;border-radius: 5px;}
+.div36{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1140px;left:629px;border-radius: 5px;}
+.div37{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1140px;left:753px;border-radius: 5px;}
+.div38{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1140px;left:877px;border-radius: 5px;}
+.div39{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1190px;left:9px;border-radius: 5px;}
+.div40{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1190px;left:133px;border-radius: 5px;}
+.div41{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1190px;left:9px;border-radius: 5px;}
+
+
+.d10{height:30px;width:150px;background-color: #01579b;
+position: absolute;top:1240px;left:9px;}
+#par9{color:white; margin-top: 2px;padding:0px;text-align: center;}
+#par10{
+position: absolute;top:1220px;left:167px;font-size: 20px;font-weight: bold;}
+
+
+.div42{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1280px;left:9px;border-radius: 5px;}
+.div43{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1280px;left:133px;border-radius: 5px;}
+.div44{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1280px;left:257px;border-radius: 5px;}
+.div45{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1280px;left:381px;border-radius: 5px;}
+.div46{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1280px;left:505px;border-radius: 5px;}
+.div47{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1280px;left:629px;border-radius: 5px;}
+.div48{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1280px;left:753px;border-radius: 5px;}
+.div49{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1280px;left:877px;border-radius: 5px;}
+.div50{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1330px;left:9px;border-radius: 5px;}
+.div51{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1330px;left:133px;border-radius: 5px;}
+.div52{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1330px;left:9px;border-radius: 5px;}
+.d6:hover{background-color: darkgoldenrod;cursor: pointer;}
+.d7:hover{background-color: darkgoldenrod;cursor: pointer;}
+.d8:hover{background-color: darkgoldenrod;cursor: pointer;}
+.d9:hover{background-color: darkgoldenrod;cursor: pointer;}
+.d10:hover{background-color: darkgoldenrod;cursor: pointer;}
+#par1:hover{background-color: darkgoldenrod;}
+#par3:hover{background-color: darkgoldenrod;}
+#par5:hover{background-color: darkgoldenrod;}
+#par7:hover{background-color: darkgoldenrod;}
+#par9:hover{background-color: darkgoldenrod;}
+
+
+.d11{height:30px;width:150px;background-color: darkgoldenrod;
+position: absolute;top:1380px;left:9px;}
+#par11{color:white; margin-top: 2px;padding:0px;text-align: center;}
+#par12{
+position: absolute;top:1360px;left:167px;font-size: 20px;font-weight: bold;}
+#page1{color:white;font-size: 20px;margin-top: 0px;margin-left: 9px;font-weight: bold;}
+
+
+.div53{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1430px;left:9px;border-radius: 5px;}
+.div54{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1430px;left:133px;border-radius: 5px;}
+.div55{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1430px;left:257px;border-radius: 5px;}
+.div56{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1430px;left:381px;border-radius: 5px;}
+.div57{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1430px;left:505px;border-radius: 5px;}
+.div58{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1430px;left:629px;border-radius: 5px;}
+.div59{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1430px;left:753px;border-radius: 5px;}
+.div60{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1430px;left:877px;border-radius: 5px;}
+.div61{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1490px;left:9px;border-radius: 5px;}
+.div62{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1490px;left:133px;border-radius: 5px;}
+.div63{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1490px;left:9px;border-radius: 5px;}
+
+.d12{height:30px;width:150px;background-color: darkgoldenrod;
+position: absolute;top:1550px;left:9px;}
+#par13{color:white; margin-top: 2px;padding:0px;text-align: center;}
+#par14{
+position: absolute;top:1530px;left:167px;font-size: 20px;font-weight: bold;}
+
+
+
+.div64{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1600px;left:9px;border-radius: 5px;}
+.div65{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1600px;left:133px;border-radius: 5px;}
+.div66{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1600px;left:257px;border-radius: 5px;}
+.div67{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1600px;left:381px;border-radius: 5px;}
+.div68{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1600px;left:505px;border-radius: 5px;}
+.div69{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1600px;left:629px;border-radius: 5px;}
+.div70{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1600px;left:753px;border-radius: 5px;}
+.div71{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1600px;left:877px;border-radius: 5px;}
+.div72{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1660px;left:9px;border-radius: 5px;}
+.div73{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1660px;left:133px;border-radius: 5px;}
+.div74{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1660px;left:257px;border-radius: 5px;}
+.div75{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1660px;left:381px;border-radius: 5px;}
+.div76{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1660px;left:505px;border-radius: 5px;}
+.div77{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1660px;left:629px;border-radius: 5px;}
+
+#abu1{height:40px;width:1000px;background-color: #01579b;
+position: absolute;top:1750px;left:1px;border:1px solid grey;}
+.abu2{height:700px;width:998px;background-color: white;
+position: absolute;top:1780px;left:1px;border:2px solid #01579b;}
+#page2{color:white;font-size: 20px;margin-top: 0px;margin-left: 9px;font-weight: bold;}
+
+.dha1{height:30px;width:150px;background-color: darkgreen;
+position: absolute;top:1790px;left:9px;}
+#dh1{color:white; margin-top: 2px;padding:0px;text-align: center;}
+#dh2{
+position: absolute;top:1770px;left:167px;font-size: 20px;font-weight: bold;}
+.dav1{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1850px;left:9px;border-radius: 5px;}
+.dav2{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1850px;left:133px;border-radius: 5px;}
+.dav3{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1850px;left:257px;border-radius: 5px;}
+.dav4{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1850px;left:381px;border-radius: 5px;}
+.dav5{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1850px;left:505px;border-radius: 5px;}
+.dav6{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1850px;left:629px;border-radius: 5px;}
+.dav7{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1850px;left:753px;border-radius: 5px;}
+.dav8{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1850px;left:877px;border-radius: 5px;}
+
+.dha2{height:30px;width:150px;background-color: #01579b;
+position: absolute;top:1910px;left:9px;}
+#dh3{color:white; margin-top: 2px;padding:0px;text-align: center;}
+#dh4{
+position: absolute;top:1890px;left:167px;font-size: 20px;font-weight: bold;}
+.dav9{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1950px;left:9px;border-radius: 5px;}
+.dav10{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1950px;left:133px;border-radius: 5px;}
+.dav11{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1950px;left:257px;border-radius: 5px;}
+.dav12{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1950px;left:381px;border-radius: 5px;}
+.dav13{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1950px;left:505px;border-radius: 5px;}
+.dav14{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1950px;left:629px;border-radius: 5px;}
+.dav15{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1950px;left:753px;border-radius: 5px;}
+.dav16{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:1950px;left:877px;border-radius: 5px;}
+.dav17{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:2020px;left:9px;border-radius: 5px;}
+.dav18{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:2020px;left:133px;border-radius: 5px;}
+.dav19{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:2020px;left:257px;border-radius: 5px;}
+
+
+.dha3{height:30px;width:150px;background-color: deeppink;
+position: absolute;top:2080px;left:9px;}
+#dh5{color:white; margin-top: 2px;padding:0px;text-align: center;}
+#dh6{
+position: absolute;top:2060px;left:167px;font-size: 20px;font-weight: bold;}
+.dav20{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:2130px;left:9px;border-radius: 5px;}
+.dav21{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:2130px;left:133px;border-radius: 5px;}
+.dav22{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:2130px;left:257px;border-radius: 5px;}
+.dav23{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:2130px;left:381px;border-radius: 5px;}
+.dav24{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:2130px;left:505px;border-radius: 5px;}
+.dav25{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:2130px;left:629px;border-radius: 5px;}
+.dav26{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:2130px;left:753px;border-radius: 5px;}
+.dav27{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:2130px;left:877px;border-radius: 5px;}
+.dav28{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:2190px;left:9px;border-radius: 5px;}
+.dav29{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:2190px;left:133px;border-radius: 5px;}
+.dav30{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:2190px;left:257px;border-radius: 5px;}
+
+
+.dha4{height:30px;width:150px;background-color: blue;
+position: absolute;top:2250px;left:9px;}
+#dh7{color:white; margin-top: 2px;padding:0px;text-align: center;}
+#dh8{
+position: absolute;top:2230px;left:167px;font-size: 20px;font-weight: bold;}
+
+
+.dav31{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:2290px;left:9px;border-radius: 5px;}
+.dav32{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:2290px;left:133px;border-radius: 5px;}
+.dav33{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:2290px;left:257px;border-radius: 5px;}
+.dav34{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:2290px;left:381px;border-radius: 5px;}
+.dav35{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:2290px;left:505px;border-radius: 5px;}
+.dav36{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:2290px;left:629px;border-radius: 5px;}
+.dav37{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:2290px;left:753px;border-radius: 5px;}
+.dav38{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:2290px;left:877px;border-radius: 5px;}
+.dav39{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:2350px;left:9px;border-radius: 5px;}
+.dav40{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:2350px;left:133px;border-radius: 5px;}
+.dav41{height:40px;width:120px;background-color: lightgray;
+position: absolute;top:2350px;left:257px;border-radius: 5px;}
+
+

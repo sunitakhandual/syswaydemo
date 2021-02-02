@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+     <link rel="stylesheet" type="text/css" href="bill_spliter1.css">
+</head>
+<body>
+<img src="https://del-villaggio.co.uk/wp-content/uploads/2014/05/photodune-11213896-italian-food-cooking-ingredients-l-1600x1067.jpg"height="550px"width="100%">
+<div id="splitter">
+    <p id="h1">BILL &nbsp;SPLITTING</p>
+<p id="pa1">Total amount</p>
+<input id="value" placeholder="Enter Total value" name=""><br><br><br><br>
+<p id="pa2"> no.of people</p>
+<input id="people" placeholder="Enter how many people" name=""><br><br>
+
+<button id="btn" onclick="myFunction1()">add tip</button><br><br>
+
+<button id="sp" onclick="myFunction()" >Split</button>
+<div id="splitamount"></div>
+<button id="re"  onclick="resetfun()">Reset</button>
+
+
+
+
+    <script type="text/javascript">
+    	function myFunction(){
+    	 var amount=parseInt(document.getElementById('value').value);
+    	 var people=parseInt(document.getElementById('people').value);
+    	 var split=amount/people;
+    	 document.getElementById('splitamount').innerHTML=split;
+
+
+    	}
+
+    	function myFunction1(){
+
+    	 var input=document.createElement('INPUT');
+    	 input.setAttribute("id","tip")
+    	 btn.remove();
+
+
+    	 document.body.appendChild(input);
+    	 var y=document.getElementById("sp")
+    	 y.setAttribute("onclick" ,"pass()");
+
+
+
+
+
+    	}
+
+    	function pass(){
+    	 var amount=parseInt(document.getElementById('value').value);
+    	 var people=parseInt(document.getElementById('people').value);
+    	 var tip=parseInt(document.getElementById('tip').value);
+    	 var tipamount=(amount+tip)/people;
+    	 document.getElementById('splitamount').innerHTML=tipamount;
+
+    	}
+    	function resetfun(){
+    	 document.getElementById('splitamount').innerHTML=" ";
+    	 document.getElementById('value').value=" ";
+    	 document.getElementById('people').value=" ";
+    	 document.getElementById('tip').value=" ";
+
+    	}
+
+
+
+
+    </script>
+    </div>
+</body>
+</html>
+
+
+</body>
+</html>

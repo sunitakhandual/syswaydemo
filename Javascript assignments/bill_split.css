@@ -1,0 +1,24 @@
+#di{height:550px;width:700px;
+position:absolute;left:250px;top:20px;}
+#pa1{color:maroon;position: absolute;left:200px;font-family: Algerian;font-weight: bold;font-size: 40px;}
+#hr{position: absolute;left:200px;width:330px;background-color:black;height:3px;top:95px;}
+
+#p1{position:absolute;left:200px;font-size: 23px;top:130px;font-weight: bolder;color: midnightblue;}
+#a{position:absolute;left:350px;top:150px;height:31px;width:190px;background-color: honeydew;
+ border-radius: 10px;color:black;font-size: 17px;text-align: center;}
+#p2{position:absolute;left:200px;font-size: 23px;top:190px;font-weight: bolder;color:midnightblue;}
+#b{position:absolute;left:350px;top:215px;height:30px;width:191px;background-color: honeydew;
+    border-radius: 10px;color:black;font-size: 15px;text-align: center;}
+
+#p4{position:absolute;left:200px;font-size: 23px;top:260px;font-weight: bolder;color:midnightblue;}
+#d{position:absolute;left:350px;top:275px;height:40px;width:187px;background-color: darkgreen;
+    border-radius: 50px;color:white;font-size: 17px;text-align: center;border-style: none;}
+#p5{position:absolute;left:200px;font-size: 23px;top:337px;font-weight: bolder;color:midnightblue;display: block;}
+#e{position:absolute;left:350px;top:347px;height:30px;width:191px;background-color: honeydew;
+    border-radius: 10px;color:black;font-size: 15px;text-align: center;display: none;}
+#p6{position:absolute;left:200px;font-size: 23px;top:400px;font-weight: bolder;color:midnightblue;}
+#f{position:absolute;left:350px;top:410px;height:40px;width:187px;background-color: darkgreen;
+    border-radius: 50px;color:white;font-size: 17px;text-align: center;border-style: none;}
+#g{position:absolute;left:310px;top:500px;height:40px;width:100px;background-color: maroon;
+    border-radius: 30px;color:white;font-size: 20px;text-align: center;border-style: none;}
+

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="js35.css">
+</head>
+
+<input id="a" type="text" placeholder="Enter some text....">
+<div id="b"></div>
+<button id="c" onClick="myFunction()">Click here to see length</button>
+<p id="len"></p>
+<script>
+
+debugger;
+    function myFunction() {
+        var c= document.getElementById("a").value
+   var d=c.length;
+  document.getElementById("b").innerHTML = d;
+  document.getElementById("len").innerHTML="the lenthg of "+c+" "+"is"+"  "+d
+}
+
+    </script>
+</body>
+</html>

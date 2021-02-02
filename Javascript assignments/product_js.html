@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="product_js.css">
+</head>
+<body>
+<img src="https://onlineandmobileaccountants.com/wp-content/uploads/sites/3734/2016/03/background-2.jpg"height="700px"width="100%">
+
+    <div id="di">
+        <h1>TAX CALCULATION</h1>
+        <select id="s7" onClick="myFunction2()">
+    <option id="opt1">Product</option>
+    <option id="opt2">Food</option>
+    <option id="opt3">Fashion</option>
+    <option id="opt4">Accessories</option>
+</select><br><br>
+
+
+        <p id="p7">Product Value</p> <input id="a" type="number"  ><br><br>
+
+    <p id="p8">Quantity</p>   <input id="b" type="number" ><br><br>
+
+
+      <p id="p9">Amount</p>  <button id="btn1" onClick="myFunction1()">0</button><br><br>
+        <p id="p10">Tax</p> <input id="i2"    placeholder=""><br><br>
+         <p id="p11">Total Amount</p><button id="btn3"onClick="myFunction3()">0</button>
+
+        <p id="p1"></p>
+        <script>
+             function myFunction1() {
+
+                 var v5=document.getElementById("a").value
+                  var v6=document.getElementById("b").value
+
+
+                    val1=v5*v6;
+
+
+
+document.getElementById("btn1").innerHTML=val1;
+
+             }
+               function myFunction2() {
+
+                 var v5=document.getElementById("s7").value
+
+                    var v6=document.getElementById("s7").value
+                    var v7=document.getElementById("s7").value
+
+                 var tx1=15;
+                   var tx2=10;
+                   var tx3=12;
+
+                   if( v5=='Food'){document.getElementById("i2").value=tx1+"%";}
+                    if( v6=='Fashion'){document.getElementById("i2").value=tx2+"%";}
+                    if( v7=='Accessories'){document.getElementById("i2").value=tx3+"%";}
+
+
+
+
+             }
+             function myFunction3() {
+
+                 var v5=document.getElementById("a").value
+                  var v6=document.getElementById("b").value
+
+ var tx4=15;
+                   var tx5=10;
+                   var tx6=12;
+                   debugger;
+                   var tax1=document.getElementById("i2").value
+                 var tax2=document.getElementById("i2").value
+                  var tax3=document.getElementById("i2").value
+
+debugger;
+                   var val1=v5*v6;
+                var val2=val1*tx4/100;
+                var val3=val1+val2;
+
+
+                var val4=val1*tx5/100;
+                var val5=val1+val4;
+
+                var val6=val1*tx6/100;
+                var val7=val1+val6;
+
+   if(tax1=='15%')         {   document.getElementById("btn3").innerHTML=val3}
+
+   if(tax2=='10%')         {   document.getElementById("btn3").innerHTML=val5;}
+
+   if(tax3=='12%')         {   document.getElementById("btn3").innerHTML=val7;}
+
+
+
+             }
+
+            </script>
+    </div>
+
+
+
+</body>
+</html>

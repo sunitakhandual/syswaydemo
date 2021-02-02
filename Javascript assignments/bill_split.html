@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+     <link rel="stylesheet" type="text/css" href="bill_split.css">
+</head>
+<body>
+<img src="https://previews.123rf.com/images/moongdo/moongdo1809/moongdo180901759/108645686-color-pencil-with-leaves-on-yellow-background-business-concept-copyspace.jpg"height="555px"width="100%">
+<div id="di">
+    <p id="pa1">BILL   &nbsp; &nbsp;SPLITTING  </p>
+    <hr id="hr">
+    <p id="p1">How Much</p>
+    <input id="a" type="number" placeholder="Enter the amount" autocomplete="off">
+     <p id="p2">How Many</p>
+    <input id="b" type="number" placeholder="Enter the no of people">
+
+      <p id="p4">Split  Amount</p>
+    <button id="d" onClick="myFunction2()"> Click Here</button>
+    <button id="p5" onClick="myFunction5()">Add a Tip </button>
+    <input id="e"  type="number" placeholder="Enter the Tip amount">
+    <p id="p6" >After adding <br>a tip</p>
+    <button id="f" onClick="myFunction3()"> Click here</button>
+    <button id="g" onClick="myFunction4()"> Reset</button>
+
+    <script>
+
+
+function myFunction2() {
+             var v1=parseInt(document.getElementById("a").value)
+          var v2=parseInt(document.getElementById("b").value)
+
+    var split = v1 / v2;
+    document.getElementById("d").innerHTML = split;
+
+}
+function myFunction3() {
+             var v1=parseInt(document.getElementById("a").value)
+          var v2=parseInt(document.getElementById("b").value)
+    var v3=parseInt(document.getElementById("e").value)
+    var total=v1+v3;
+
+    var split = total/v2;
+    document.getElementById("f").innerHTML = split;
+
+}
+function myFunction4() {
+
+document.getElementById("d").innerHTML=" Click Here";
+document.getElementById("f").innerHTML="Click Here ";
+document.getElementById("a").value=" ";
+document.getElementById("b").value=" ";
+document.getElementById("e").value=" ";
+
+
+}
+function myFunction5() {
+    document.getElementById("p5").innerHTML="";
+
+}
+        </script>
+
+</div>
+
+</body>
+</html>

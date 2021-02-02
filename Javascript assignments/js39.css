@@ -1,0 +1,10 @@
+#d{height:50px;width:220px;position: absolute; left:500px;top:100px;
+    background-color: maroon;color:white;
+    border-radius:10px;
+font-weight: bold;font-size: 20px;border-style: none;text-align: center;}
+#e{height:40px;width:120px;position: absolute;left:350px;top:260px;background-color:darkblue;color:white;
+font-weight: bold;font-size: 20px;border-radius: 10px;}
+#p2{font-size: 30px;font-weight: bold;color:black;position: absolute;left:530px;top:230px;}
+#f{height:40px;width:120px;position: absolute;left:760px;top:260px;background-color:darkblue;color:white;
+font-weight: bold;font-size: 20px;border-radius: 10px;}
+body{background-image: url("https://c0.wallpaperflare.com/preview/179/449/151/technology-networking-abstract-business.jpg")}

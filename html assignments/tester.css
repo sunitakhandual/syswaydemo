@@ -1,0 +1,22 @@
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-decoration: none;
+}
+table{width:800px;margin-top: 100px;margin-left: 200px;background-color: plum;height:400px;}
+tr{height:30px;width:150px;}
+body{background-image: url("https://cdn.hipwallpaper.com/i/12/67/tXhk1B.jpg");}
+tr nth child{background-color: grey;}
+.t01 tr:nth-child(even) {
+  background-color: #eee;
+}
+.t01 tr:nth-child(odd) {
+ background-color: #fff;
+}
+.t01 th {
+  background-color: black;
+  color: white;
+}
+.btn1{position:absolute;top:520px;left:550px;background-color: blue;color:white;
+  border-style: none;border-radius: 30px;height:30px;width:150px;}
+h1{position: absolute;top:20px;left:500px;color: maroon;}

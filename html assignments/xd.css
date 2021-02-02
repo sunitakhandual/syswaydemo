@@ -1,0 +1,32 @@
+.a{
+	position: absolute;
+	left: 50px;
+	top:20px;
+	height: 700px;
+	width: 1200px;
+	background-color: plum;
+	}
+.b {
+
+	height: 50px;
+	width: 1200px;
+	background-color: purple;
+	position: absolute;
+	top: 0px;
+}
+a{
+	text-decoration-line:none;}
+.c{color:white;position: absolute;left:500px;}
+.b1{border-radius: 40px;background-color: blue;color:white;border-style: none;width:100px;height:30px;}
+.d{height:500px;width:800px;opacity: 0.2;
+	position: absolute;top:100px;left:190px;
+background-image: url("https://lh5.googleusercontent.com/-C9_Ly7pK80k/VMn7rQtmN6I/AAAAAAAABow/WS2kmWwZKjQ/s1600/pin-wallpaper-solid-color-bright-lines-desktop-background-free.jpg");}
+h2{color:white;
+	position: absolute;left:30px;top:30px;}
+.p1{color:white;
+	position: absolute;top:10px;left:30px;}
+.v1{
+	position: absolute;left:700px;top:20px;border-style: none;}
+.b2{border-radius: 40px;background-color: black;color:white;border-style: none;width:100px;height:30px;position: absolute;left:480px;top:470px;}
+
+.b3{border-radius: 40px;background-color: blue;color:white;border-style: none;width:100px;height:30px;position: absolute;left:620px;top:470px;}

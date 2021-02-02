@@ -1,0 +1,57 @@
+.a{
+	position: absolute;
+	left: 50px;
+	top:0px;
+	height: 575px;
+	width: 1200px;
+	border: 1px solid #808B96;
+	background-image  :url("https://c8.alamy.com/comp/RA9Y7G/positive-man-enjoying-shopping-happy-man-with-shopping-bags-isolated-on-white-excited-happy-man-doing-online-shopping-thanks-for-your-purchase-quality-service-shopping-happiness-RA9Y7G.jpg");
+}
+.b{
+
+	height: 50px;
+	width: 1200px;
+	background-color:honeydew;
+
+}
+
+
+h2{color:red;
+	position: absolute;
+	left: 50px;
+	opacity: .6;
+	font-family: "Berlin Sans FB";
+}
+p{
+	position: absolute;
+	left: 480px;
+
+}
+a{
+	text-decoration-line: none;
+	color: black;
+	font-weight: bold;
+	opacity: .6;
+}
+.cnt{
+	position: absolute;
+	top: 220px;
+	left: 30px;
+	color: black;
+
+	width: 700px;
+	height: 200px;
+	text-align: center;
+	font-size: 20px;
+}
+button{
+	font-weight: bold;
+	height: 50px;
+	width: 130px;
+	margin-left: 5px;
+	background: black;
+	border-color: white;
+	color: white;
+}
+h1{
+	position: absolute;left:50px;top:30px;}

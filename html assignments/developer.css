@@ -1,0 +1,21 @@
+table,  th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+table{width:800px;margin-top: 100px;margin-left: 200px;background-color: plum;height:400px;}
+tr{height:30px;width:150px;}
+tr nth child{background-color: grey;}
+.t01 tr:nth-child(even) {
+  background-color: #eee;
+}
+.t01 tr:nth-child(odd) {
+ background-color: #fff;
+}
+.t01 th {
+  background-color: black;
+  color: white;
+}
+body{background-image: url("https://c0.wallpaperflare.com/preview/198/135/731/cyber-attack-abstract-access.jpg")}
+.btn1{position:absolute;top:520px;left:550px;background-color: blue;color:white;
+  border-style: none;border-radius: 30px;height:30px;width:150px;}
+h1{position: absolute;top:20px;left:500px;color:white;}

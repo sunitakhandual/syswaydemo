@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+
+
+	var a = (prompt('Enter a   no '))
+    var b= a.length;
+	var c=parseInt(a);
+	var x=c;
+	var final = 0;
+	var i;
+     for(i=0;i<b;i++)
+     {rem = c%10;
+					c= Math.floor(c/10);
+					final = final*10+rem;
+
+
+    }
+if(x==final)
+		{document.write("its a palindrom")
+		}
+		else
+        {document.write("its not a palindrom")}
+
+
+</script>
+
+</body>
+</html>

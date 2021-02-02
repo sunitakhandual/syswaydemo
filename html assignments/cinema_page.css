@@ -1,0 +1,175 @@
+nav li{list-style: none;
+display: inline;}
+nav{background-color: black;
+height:45px;width: 101%;}
+nav li a{text-decoration: none;
+color:white;text-align: center;}
+ li :hover{color:red;}
+.d1{height:175px;width:100%;background-color: black;
+position: absolute;top:50px;opacity: .8;}
+#img1{position: absolute;top:50px;left:30px;}
+#p1{position: absolute;top:0px;left:150px;font-size: 50px;font-family:"Apple Chancery";color:white;}
+.s1{color:yellow;}
+#sel{position: absolute;top:128px;left:20px;height:35px;width:300px;background-color: white;
+boredr:1px solid black;font-size: 17px;}
+#hr1{position: absolute;top:350px;background-color: black;;width: 100%;}
+.d2{height:43px;width:1100px;background-color: lightgray;
+position: absolute;top:250px;left:100px;border:1px solid grey;border-radius: 5px;}
+#p2{position: absolute;left:400px;font-size: 16px;}
+#p2:hover{font-size: 17px;cursor: pointer;}
+#p3{position: absolute;left:470px;font-size: 16px;top:300px;font-weight: bold;}
+.d3{height:47px;width:800px;background-color: darkgoldenrod;
+position: absolute;top:370px;left:10px;border:1px solid grey;}
+#p4{position: absolute;left:40px;font-size: 19px;color:white;}
+#img2{position: absolute;top:430px;left:14px;}
+#img3{position: absolute;top:430px;left:220px;}
+#img4{position: absolute;top:430px;left:426px;}
+#img5{position: absolute;top:430px;left:631px;}
+#img6{position: absolute;top:910px;left:14px;}
+#img7{position: absolute;top:910px;left:220px;}
+#img8{position: absolute;top:910px;left:426px;}
+#img9{position: absolute;top:910px;left:631px;}
+#img10{position: absolute;top:1390px;left:14px;}
+#img11{position: absolute;top:1390px;left:220px;}
+#img12{position: absolute;top:1390px;left:426px;}
+#img13{position: absolute;top:1390px;left:631px;}
+#img14{position: absolute;top:1870px;left:14px;}
+#img15{position: absolute;top:1870px;left:220px;}
+#img16{position: absolute;top:1870px;left:426px;}
+#img17{position: absolute;top:1870px;left:631px;}
+.d4{height:210px;width:178px;
+position: absolute;top:680px;left:14px;border:1px solid grey;}
+.d5{height:210px;width:178px;
+position: absolute;top:680px;left:220px;border:1px solid grey;}
+.d6{height:210px;width:178px;
+position: absolute;top:680px;left:426px;border:1px solid grey;}
+.d7{height:210px;width:178px;
+position: absolute;top:680px;left:631px;border:1px solid grey;}
+.d8{height:210px;width:178px;
+position: absolute;top:1160px;left:14px;border:1px solid grey;border-top: none;}
+.d9{height:210px;width:178px;
+position: absolute;top:1160px;left:220px;border:1px solid grey;}
+.d10{height:210px;width:178px;
+position: absolute;top:1160px;left:426px;border:1px solid grey;}
+.d11{height:210px;width:178px;
+position: absolute;top:1160px;left:631px;border:1px solid grey;}
+.d12{height:210px;width:178px;
+position: absolute;top:1640px;left:14px;border:1px solid grey;border-top: none;}
+.d13{height:210px;width:178px;
+position: absolute;top:1640px;left:220px;border:1px solid grey;}
+.d14{height:210px;width:178px;
+position: absolute;top:1640px;left:426px;border:1px solid grey;}
+.d15{height:210px;width:178px;
+position: absolute;top:1640px;left:631px;border:1px solid grey;}
+.d16{height:210px;width:178px;
+position: absolute;top:2120px;left:14px;border:1px solid grey;}
+.d17{height:210px;width:178px;
+position: absolute;top:2120px;left:220px;border:1px solid grey;}
+.d18{height:210px;width:178px;
+position: absolute;top:2120px;left:426px;border:1px solid grey;}
+.d19{height:210px;width:178px;
+position: absolute;top:2120px;left:631px;border:1px solid grey;}
+
+#pa1{color:darkslategrey;}
+#pa2{color:black;font-size: 14px;font-weight: bold;}
+.btn1{background-color: black;height:32px;width:90px;border-style: none;
+position:absolute;left:45px;top:175px;color:white;}
+
+#pa3{color:darkslategrey;}
+#pa4{color:black;font-size: 14px;font-weight: bold;}
+.btn1{background-color: black;height:32px;width:90px;border-style: none;
+position:absolute;left:45px;top:175px;color:white;}
+
+#pa5{color:darkslategrey;}
+#pa6{color:black;font-size: 14px;font-weight: bold;}
+.btn1{background-color: black;height:32px;width:90px;border-style: none;
+position:absolute;left:45px;top:175px;color:white;}
+#pa7{color:darkslategrey;}
+#pa8{color:black;font-size: 14px;font-weight: bold;}
+.btn1{background-color: black;height:32px;width:90px;border-style: none;
+position:absolute;left:45px;top:175px;color:white;}
+#pa9{color:darkslategrey;}
+#pa10{color:black;font-size: 14px;font-weight: bold;}
+.btn1{background-color: black;height:32px;width:90px;border-style: none;
+position:absolute;left:45px;top:175px;color:white;}
+#pa11{color:darkslategrey;}
+#pa12{color:black;font-size: 14px;font-weight: bold;}
+.btn1{background-color: black;height:32px;width:90px;border-style: none;
+position:absolute;left:45px;top:175px;color:white;}
+#pa13{color:darkslategrey;}
+#pa14{color:black;font-size: 14px;font-weight: bold;}
+.btn1{background-color: black;height:32px;width:90px;border-style: none;
+position:absolute;left:45px;top:175px;color:white;}
+#pa15{color:darkslategrey;}
+#pa16{color:black;font-size: 14px;font-weight: bold;}
+.btn1{background-color: black;height:32px;width:90px;border-style: none;
+position:absolute;left:45px;top:175px;color:white;}
+#pa17{color:darkslategrey;}
+#pa18{color:black;font-size: 14px;font-weight: bold;}
+.btn1{background-color: black;height:32px;width:90px;border-style: none;
+position:absolute;left:45px;top:175px;color:white;}
+#pa19{color:darkslategrey;}
+#pa20{color:black;font-size: 14px;font-weight: bold;}
+.btn1{background-color: black;height:32px;width:90px;border-style: none;
+position:absolute;left:45px;top:175px;color:white;}
+#pa21{color:darkslategrey;}
+#pa22{color:black;font-size: 14px;font-weight: bold;}
+.btn1{background-color: black;height:32px;width:90px;border-style: none;
+position:absolute;left:45px;top:175px;color:white;}
+#pa23{color:darkslategrey;}
+#pa24{color:black;font-size: 14px;font-weight: bold;}
+.btn1{background-color: black;height:32px;width:90px;border-style: none;
+position:absolute;left:45px;top:175px;color:white;}
+#pa25{color:darkslategrey;}
+#pa26{color:black;font-size: 14px;font-weight: bold;}
+.btn1{background-color: black;height:32px;width:90px;border-style: none;
+position:absolute;left:45px;top:175px;color:white;}
+#pa27{color:darkslategrey;}
+#pa28{color:black;font-size: 14px;font-weight: bold;}
+.btn1{background-color: black;height:32px;width:90px;border-style: none;
+position:absolute;left:45px;top:175px;color:white;}
+#pa29{color:darkslategrey;}
+#pa30{color:black;font-size: 14px;font-weight: bold;}
+.btn1{background-color: black;height:32px;width:90px;border-style: none;
+position:absolute;left:45px;top:175px;color:white;}
+#pa31{color:darkslategrey;}
+#pa32{color:black;font-size: 14px;font-weight: bold;}
+.btn1{background-color: black;height:32px;width:90px;border-style: none;
+position:absolute;left:45px;top:175px;color:white;}
+.btn1:hover{background-color:goldenrod;cursor: pointer;}
+#image{position: absolute;top:380px;left:880px;}
+#image1{position: absolute;top:1300px;left:860px;}
+#div1{height:40px;width:700px;position: absolute;top:800px;left:880px;background-color: darkolivegreen;}
+
+#par1{color:white;font-weight: bold;font-size: 20px;}
+#div2{height:70px;width:700px;position: absolute;top:841px;left:880px;background-color: lightgray;}
+#div3{height:40px;width:700px;position: absolute;top:990px;left:880px;background-color: darkolivegreen;}
+#div4{height:70px;width:700px;position: absolute;top:1030px;left:880px;background-color: lightgray;}
+#par2{color:white;font-weight: bold;font-size: 20px;}
+#image2{position: absolute;top:2700px;left:18px;}
+#image3{position: absolute;top:2700px;left:220px;}
+#image4{position: absolute;top:2700px;left:450px;}
+#image5{position: absolute;top:2700px;left:590px;}
+#image6{position: absolute;top:2700px;left:730px;}
+#image7{position: absolute;top:2700px;left:930px;}
+#image8{position: absolute;top:2700px;left:1090px;}
+
+#google{
+ position: absolute;top:17px;left:800px;}
+
+#apple{
+ position: absolute;top:17px;left:910px;}
+
+
+#goo{
+ position: absolute;top:17px;left:1020px;}
+
+#face{
+ position: absolute;top:17px;left:1070px;}
+
+#twi{
+ position: absolute;top:17px;left:1120px;}
+
+#inst{
+ position: absolute;top:17px;left:1170px;}
+

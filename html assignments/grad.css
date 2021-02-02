@@ -1,0 +1,56 @@
+.d1{border:1px solid #311b92;height:60px;width:100%;margin-left: 3px;background-color: #311b92}
+.s1{color:goldenrod;font-size: 25px;position: absolute;left:18px;}
+.s2{color:white;font-size: 25px;position: absolute;left:100px;}
+.s3{color:white;font-size: 13px;position: absolute;left:600px;background-color:transparent;
+    color:white;border-style: none;}
+select{
+	border:2px solid goldenrod;
+   outline:0px;
+   background: transparent;
+   font-weight: bold;
+   opacity: .9;
+ position: absolute;left:600px;
+    color:white;
+
+}
+.d2{height:500px;width:100%;margin-top: 60px;
+background-image: url("https://wallpapercave.com/wp/wp2150777.jpg");
+opacity: .6;}
+.x1{
+    font-size: 40px;color:goldenrod;
+    position: absolute;left:400px;top:200px;}
+.x2{
+    font-size: 40px;color:white;
+    position: absolute;left:530px;top:200px;}
+.x3{
+    font-size: 20px;color:white;
+    position: absolute;left:430px;top:150px;}
+.x4{
+    color:white;
+    position: absolute;left:550px;top:270px;background-color: goldenrod;border-style: none;height:30px;}
+.d4{height:170px;width:210px;background-color: goldenrod;color:white;
+    position: absolute;top:400px;left:100px;}
+d4{height:170px;width:210px;background-color: goldenrod;color:white;
+    position: absolute;top:400px;left:100px;}
+.z{position:absolute;left:690px;}
+.d5{height:50px;width:500px;
+    position: absolute;left:310px;top:518px;
+    background-color: #0a3e59;}
+.z2{color:white;}
+.d6{height:180px;width:100%;background-color: #385d6b;
+    position: absolute;top:568px;}
+.button{position: absolute;left:500px;top:60px;border:1px solid white;background-color:#385d6b ;color:white;}
+.z3{color:white}
+.z:hover{
+    background-color: #0a3e59;
+}
+ul {position:absolute;left:690px;top:30px;border:1px solid #00796b;background-color: #00796b;color:white;
+visibility:hidden;}
+ul:hover{display: block;}
+div d1 a {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  padding: 15px;
+  display:inline-block;
+}

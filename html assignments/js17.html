@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<button onClick="myFunction()">click here</button>
+<script>
+var fruits, text;
+fruits = ["Banana", "Orange", "Apple", "Mango"];
+
+text = "<ul>";
+fruits.forEach(myFunction);
+text += "</ul>";
+document.getElementById("demo").innerHTML = text;
+
+function myFunction(value) {
+  text += "<li>" + value + "</li>";
+}
+</script>
+
+</body>
+</html>

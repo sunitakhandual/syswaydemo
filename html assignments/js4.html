@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+
+</head>
+<body>
+<p id="g"></p>
+<p id="h"></p>
+
+<p id="n"></p>
+
+<script>
+    a=40;
+    b=40;
+    c=45;
+    d=35;
+    avg=a+b+c+d/4;
+    totalmark=a+b+c+d;
+    perc=totalmark/400*100;
+
+    document.getElementById("g").innerHTML= "avg mark="+avg+" , "+"total perc="+perc;
+    if(perc>30)
+    {
+
+        document.getElementById("h").innerHTML="student got passed";
+
+     if(perc>35) {document.getElementById("n").innerHTML="student got 2nd class"}
+
+    else if(perc>=40) {document.getElementById("n").innerHTML="student got good no"}
+    }
+
+    else{  document.getElementById("n").innerHTML="student failed"}
+
+    </script>
+</body>
+</html>

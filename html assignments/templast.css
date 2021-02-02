@@ -1,0 +1,64 @@
+.a{
+	position: absolute;
+	left: 50px;
+	top:10px;
+	height: 800px;
+	width: 1200px;
+	}
+.b {
+
+	height: 50px;
+	width: 1200px;
+	background-color: lightgreen;
+	position: absolute;
+	top: 5px;
+}
+a{
+	text-decoration-line:none;}
+h2{color:red;
+	position: absolute;
+	left: 100px;
+	opacity: .6;
+	font-family: "Berlin Sans FB";}
+.c{
+	position: absolute;left:500px;}
+.d{height:150px;width:1200px;
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmAuJNbG8CiIuP35n1n4HrzZHA1OiAYAfQLQ&usqp=CAU");
+ margin-top: 50px;}
+.v1{
+	position:absolute;top:230px;left:200px;}
+.v2{
+	position:absolute;top:230px;left:460px;}
+.v3{
+	position:absolute;top:230px;left:770px;}
+.v4{
+	position:absolute;top:550px;left:200px;}
+.v5{
+	position:absolute;top:550px;left:460px;}
+.v6{
+	position:absolute;top:550px;left:740px;}
+.f{height:100px;width:200px;border:1px solid white;background-color: white;
+position: absolute;left:230px;top:400px;}
+.g{height:100px;width:200px;border:1px solid white;background-color: white;
+position: absolute;left:500px;top:400px;}
+.h{height:100px;width:200px;border:1px solid white;background-color: white;
+position: absolute;left:800px;top:400px;}
+.i{height:100px;width:200px;border:1px solid white;background-color: white;
+position: absolute;left:230px;top:700px;}
+.j{height:100px;width:200px;border:1px solid white;background-color: white;
+position: absolute;left:500px;top:700px;}
+.k{height:100px;width:200px;border:1px solid white;background-color: white;
+position: absolute;left:780px;top:700px;}
+
+
+
+
+
+
+
+
+
+
+
+
+

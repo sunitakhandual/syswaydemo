@@ -1,0 +1,12 @@
+.a{height:550px;width:1000px;margin-left: 130px;
+    opacity: .9;background-image: url("https://images.unsplash.com/photo-1508727786488-0d7201955bc0?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8M3wxMTMxMDIxfHxlbnwwfHx8&w=1000&q=80")}
+.h1{position: absolute;left:600px;top:100px;color:white;}
+.p{position: absolute;left:700px;top:190px;color:white;}
+button{position: absolute;top:270px;left:880px;height:30px;}
+.b{height:90px;width:180px;background-color: #303f9f;
+    position: absolute;top:8px;left:138px;}
+h2{color:white;position: absolute;left:50px;top:20px;}
+.c{height:450px;width:180px;background-color: black;
+    position: absolute;top:100px;left:138px;
+    opacity: .4;}
+list {color:white;position: absolute;top:180px;left:130px;}

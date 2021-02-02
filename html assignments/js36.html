@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="js36.css">
+</head>
+<body>
+<img src="https://c0.wallpaperflare.com/preview/558/456/1024/computer-connection-data-digital.jpg"height="560px"width="100%">
+
+    <div id="di">
+        <h1>SIGN UP</h1>
+   <input id="a" type="text" placeholder="First Name">
+        <p id="p1"></p>
+      <input id="b" type="text" placeholder="Last Name">
+        <p id="p2"></p>
+      <input id="c" type="email" placeholder="Enter your mail..">
+        <p id="p3"></p>
+      <input id="d" type="number" placeholder="Phone no..">
+        <p id="p4"></p>
+    <button id="e" onClick="myFunction()">Sign Up</button>
+        <script>
+             function myFunction() {
+                  var v1= document.getElementById("a").value
+                  var v2= document.getElementById("b").value
+                  var v3= document.getElementById("c").value
+                  var v4= document.getElementById("d").value
+                  var i1=v1.length;
+                   var i2=v2.length;
+                    var i3=v3.length;
+                     var i4=v4.length;
+
+                     if(i1==0){
+                         document.getElementById("p1").innerHTML="First name is required"}
+                             else   {document.getElementById("p1").innerHTML="  "}
+
+
+                      if(i2==0){
+                          document.getElementById("p2").innerHTML="Last name is required";}
+                               else {document.getElementById("p2").innerHTML="  "}
+
+                     if(i3==0){
+                          document.getElementById("p3").innerHTML="Email is required"}
+                              else  {document.getElementById("p3").innerHTML="  "}
+                         if(i4==0)
+                         {document.getElementById("p4").innerHTML="Phone no is required"}
+                                  else  {document.getElementById("p4").innerHTML="  "}
+
+                                  if(i1>0&&i2>0&&i3>0&&i4>0)
+                                  {
+                                      setTimeout(function(){
+                                      alert ("successfully submitted")},300);}
+
+
+
+             }
+
+
+            </script>
+    </div>
+
+
+</body>
+</html>

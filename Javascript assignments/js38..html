@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" type="text/css"href="js38.css">
+</head>
+<body>
+<p class="p3">
+ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Calculate an employee PF and HRA by taking basic salary as user<br>
+    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; input  where PF = 10% of basic salary and HRA = 25% of basic
+    salary. </p>
+<input id="d" type="number" placeholder="Enter salary..">
+<button id="e" onClick="myFunction()">Click here to see PF</button>
+<p id="p1"></p>
+<p id="p2"></p>
+<button id="f" onClick="myFunction1()">Click here to see HRA</button>
+
+
+<script>
+     function myFunction() {
+         var v1= document.getElementById("d").value
+         var v2=v1*10/100;
+          document.getElementById("p1").innerHTML=v2
+     }
+      function myFunction1() {
+         var v1= document.getElementById("d").value
+         var v3=v1*25/100;
+          document.getElementById("p2").innerHTML=v3
+     }
+
+
+    </script>
+
+</body>
+</html>

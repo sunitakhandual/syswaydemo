@@ -1,0 +1,7 @@
+body{background-color: darkturquoise;}
+#a{height:50px;width:370px;background-color: maroon;color: white;margin-left: 480px;margin-top: 150px;border-style: none;}
+#b{height:50px;width:120px;background-color: darkgreen;color: white;margin-left: 600px;
+    margin-top: 80px;text-align: center;border-style: none;border-radius: 50px;}
+#c{height:90px;width:400px;background-color: midnightblue;color: white;
+position: absolute;left:480px;top:420px;font-size: 20px;border-style: none;}
+#len{position: absolute;left:550px;font-weight: bold;font-size: 20px;color:white;}
